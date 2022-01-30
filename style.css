@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+ header{background-color: rgb(200, 26, 216);}
+ h1{color: rgb(204, 18, 250);}
+ footer{color: blueviolet;}
+ nav{border: blueviolet 10px solid;}
+ nav a{color: blueviolet;}
+<head>
+<title>
+<link>
